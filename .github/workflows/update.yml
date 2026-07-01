@@ -24,11 +24,11 @@ jobs:
           pip install -r requirements.txt
           python update.py
 
-      # - name: Upload Sources
-      #   uses: crowdin/github-action@v2
-      #   env:
-      #     CROWDIN_PROJECT_ID: ${{ secrets.CROWDIN_PROJECT_ID }}
-      #     CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_PERSONAL_TOKEN }}
+      - name: Upload Sources
+        uses: crowdin/github-action@v2
+        env:
+          CROWDIN_PROJECT_ID: ${{ secrets.CROWDIN_PROJECT_ID }}
+          CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_PERSONAL_TOKEN }}
 
       - name: Commit and Push
         run: |
