@@ -1,9 +1,5 @@
 preserve_hierarchy: true
 
-languages_mapping:
-  - locale_with_underscore:
-      bo-BT: bo_bt
-
 files:
   - source: sources/en_us.json
     dest: en_us.json
