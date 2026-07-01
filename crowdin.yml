@@ -1,10 +1,10 @@
 preserve_hierarchy: true
 
 languages_mapping:
-  - locale:
-      bo-BT: bo-bt
+  - locale_with_underscore:
+      bo-BT: bo_bt
 
 files:
   - source: sources/en_us.json
     dest: en_us.json
-    translation: /resources/assets/minecraft/lang/%locale_with_underscore%.lang
+    translation: /resources/assets/minecraft/lang/%locale_with_underscore%.json
