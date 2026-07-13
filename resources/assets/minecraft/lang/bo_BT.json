@@ -12,6 +12,7 @@
   "language.name": "བོད་སྐད།",
   "language.region": "བོད་རང་སྐྱོང་ལྗོངས།",
   "options.on.composed": "རྟགས'%s'གྲགས་པ།",
+  "selectWorld.deleteQuestion": "ཁྱོད་ཀྱིས་འཇིག་རྟེན་འདི་བསུབ་རྒྱུ་ཡིན་ནམ།",
   "selectWorld.deleteWarning": "‘%s’ནམ་ཡང་མེད་པར་འགྱུར་ངེས་ཡིན།",
   "selectWorld.gameMode.hardcore.line1": "འཚོ་གནས་རྣམ་པ་དང་འདྲ་བར།དཀའ་ཁག་གི་ཚད་ནི་ཆེས་མཐོ་བ་ཡིན།",
   "selectWorld.gameMode.hardcore.line2": "ད་རུང་ཚེ་སྲོག་གི་གོ་སྐབས་ཐེངས་གཅིག་མ་གཏོགས་མེད།"
