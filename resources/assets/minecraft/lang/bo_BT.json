@@ -1,10 +1,13 @@
 {
   "accessibility.onboarding.accessibility.button": "ཆོག་འཐུས་སྒྲིག་ཆས...",
   "accessibility.onboarding.accessibility.button.narration": "ཆོག་འཐུས་སྒྲིག་ཆས།",
+  "accessibility.onboarding.screen.title": "Minecraftལ་དགའ་བསུ་ཞུ!\n\nཁྱོད་ཀྱིས་བཤད་མཁན་ལ་ནུས་པ་འདོན་དགོས་སམ་ཡང་ན་ཆོག་འཐུས་སྒྲིག་ཆས་ལ་ལྟ་སྐོར་བྱེད་དགོས་སམ?",
   "addServer.add": "བསྒྲུབས་ཚར་བ།",
   "addServer.enterIp": "ཞབས་ཞུ་ཆས་ཀྱི་གནས་ཡུལ།",
   "addServer.enterName": "ཞབས་ཞུ་ཆས་མིང་།",
   "addServer.resourcePack": "ཞབས་ཞུ་ཆས་ཐོན་ཁུངས་ཚོགས་པ།",
+  "addServer.resourcePack.disabled": "དབང་པོ་སྐྱོན་ཅན་",
+  "addServer.resourcePack.enabled": "ནུས་པ་ཐོན་པ་",
   "addServer.title": "ཞབས་ཞུ་ཆས་གྱི་གནས་ཚུལ་བཅོས་བསྒྱུར་བྱེད་པ།",
   "advancements.nether.get_wither_skull.description": "ཝི་ཐེར་ཀྱི་མགོ་རུས་ལེན་པར་བྱེད།",
   "advancements.nether.get_wither_skull.title": "འཇིགས་སྐྲག་ཆེ་བའི་རུས་པའི་མགོ་ཞིག",
